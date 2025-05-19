@@ -1,10 +1,10 @@
 # Day 58 - TinDog 🐶 | Bootstrap Project
 
-This project is a **startup landing page for TinDog**, a dating app for dogs. It was built using **HTML** and **Bootstrap 5**.
+This project is a **startup landing page for TinDog**, a dating app for dogs. It was built using **HTML** and **Bootstrap **.
 
 ## 🚀 Features
 
-* Modern, responsive UI using Bootstrap 5  
+* Modern, responsive UI using Bootstrap 
 * App promotion section with App Store and Google Play buttons  
 * Feature highlights using icon components  
 * Clean and minimal layout  
